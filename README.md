@@ -1,2 +1,2 @@
 # TrabalhoDupla
-Trabalho em Dupla com a Joanne
+Atividades em Duplas feitas nas Aulas de Java
