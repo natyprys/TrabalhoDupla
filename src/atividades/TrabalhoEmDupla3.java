@@ -1,7 +1,6 @@
+package atividades;
 
-
-public class Atv013 {
-
+class Atv013 {
     public static void main(String[] args) {
         cabecalho();
         int soma1 = soma(10, 20);
@@ -30,6 +29,5 @@ public class Atv013 {
         System.out.println("O valor da soma 1 foi: "+ soma1 + "\nO valor da soma 2 foi: "+ soma2 +"\nO valor da soma 3 foi: "+ soma3 + "\nO valor da soma 4 foi: "+ soma4 );
         System.out.println("O valor da média calculada foi: " + media1);
     }
-
 
 }
